@@ -1,0 +1,22 @@
+footer{ 
+    bottom: 0; 
+    width: 100%;
+    background-color: #E3E3E3;
+    color: #000000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  footer h2 ul{
+    text-align: left;
+    margin-left: 15px;
+    padding-left: 15px;
+  }
+  footer ul{
+    padding-top: 5px;
+  }
+  footer p{
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  
